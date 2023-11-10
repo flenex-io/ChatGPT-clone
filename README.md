@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a ChatGPT clone, inspired by OpenAI's GPT-3.5 architecture. It aims to provide a conversational AI model that can generate human-like responses based on the input it receives. The project is developed using [React.js].
+This project is a ChatGPT clone, inspired by OpenAI's GPT-3.5 architecture. It aims to provide a conversational AI model that can generate human-like responses based on the input it receives. The project is developed using React.js and openAi's API.
 
 ## Features
 
@@ -29,10 +29,6 @@ Follow these steps to get the ChatGPT clone up and running on your local machine
     ```bash
     npm start
     ```
-
-## Configuration
-
-Customize the behavior and responses of the ChatGPT clone by modifying the configuration files. Refer to the [configuration documentation](docs/configuration.md) for details on available options.
 
 ## Contributing
 
