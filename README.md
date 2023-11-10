@@ -34,27 +34,6 @@ Follow these steps to get the ChatGPT clone up and running on your local machine
 
 Customize the behavior and responses of the ChatGPT clone by modifying the configuration files. Refer to the [configuration documentation](docs/configuration.md) for details on available options.
 
-## Model Fine-Tuning
-
-If you wish to adapt the model for specific domains or industries, you can explore fine-tuning options. Follow the [fine-tuning guide](docs/fine-tuning.md) for detailed instructions.
-
 ## Contributing
 
-We welcome contributions to enhance the capabilities and performance of the ChatGPT clone. Check out the [contribution guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Special thanks to OpenAI for their groundbreaking work on GPT models.
-- [List any other acknowledgments or credits.]
-
-## Contact
-
-For questions, issues, or feedback, please contact [insert email address].
-
----
-
-**Note:** This README template is a starting point, and you should customize it based on your specific project details and structure.
+We welcome contributions to enhance the capabilities and performance of the ChatGPT clone.
