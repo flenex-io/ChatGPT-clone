@@ -11,15 +11,19 @@ Follow these steps to get the ChatGPT clone up and running on your local machine
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/flenex-io/ChatGPT-clone.git
-    cd chatgpt-clone
     ```
 
-2. **Install Dependencies:**
+2. **Change the repository**
+   ```bash
+    cd chatgpt-clone
+   ```
+
+3. **Install Dependencies:**
     ```bash
     npm install
     ```
 
-3. **Run the Application:**
+4. **Run the Application:**
     ```bash
     npm start
     ```
